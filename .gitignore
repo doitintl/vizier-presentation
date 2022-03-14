@@ -2,3 +2,5 @@
 
 .idea/
 fraud-header-withy.csv
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
