@@ -4,7 +4,7 @@
 
 ## Workbooks
 ###  Sample for GAPIC Vertex API
-  * [/gapic-api-vizier.ipynb](/gapic-api-vizier.ipynb)
+  * [/gapic-vizier-fraud.ipynb](/gapic-vizier-fraud.ipynb)
   * Uses the Vertex AI Vizier API.  Generally available.
   * This notebook is the only avialable sample for Machine Learning with Vertex AI Vizier, after the ML sample mentioned below.
   * This is the recommended API as the Vertex platform is Google's main direction.
